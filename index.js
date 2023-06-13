@@ -1,6 +1,6 @@
 
 let employee = {
-    name: "John Doe",
+    name: "Pedro V",
     streetAddress: "123 Main St"
   };
   
